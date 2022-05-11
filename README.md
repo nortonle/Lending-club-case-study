@@ -35,7 +35,7 @@ Once a loan is disbursed to a customers, two additional indicators should be tak
 - Seaborn
 
 ## Contact
-Group project facilator:
-- Le Nguyen Duc - norton0704@yahoo.co.uk
-Group project member:
-- Tran Chi Thao - Thaotc.pte@gmail.com
+* Group project facilator:
+   - Le Nguyen Duc - norton0704@yahoo.co.uk
+* Group project member:
+   - Tran Chi Thao - Thaotc.pte@gmail.com
