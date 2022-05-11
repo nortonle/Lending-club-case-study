@@ -1,4 +1,7 @@
 # Lending-club-case-study
+This is a group project of two master students who are participating Master of machine learning, a joint program between Upgrad and Liverpool John Moorse University. The project is to identify some patterns may lead to potential bad debts.
+
+## Executive summary
 Given a dataset of a lending club containing data from 2007 to 2011, we need to analyse to find bad debt customers patterns. These patterns may help to prevent bad debt for new to bank customers in future. In the scope of analysis, we can only focus on some descriptive statistics analysis to determine patterns. Although we apply univariate analysis on some variables, it's not really univariate. Because we always combine them with loan status.
 
 After analysis, we detect some indicators that may be helpful for future use (if we need to build predictive analysis for this case study).
